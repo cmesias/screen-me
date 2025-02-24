@@ -1,0 +1,9 @@
+zeroconf
+tornado
+PyAV
+numpy
+opencv-python
+tk
+av
+requests
+io
